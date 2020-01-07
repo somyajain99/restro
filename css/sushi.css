@@ -1,0 +1,48 @@
+body
+{
+    height:100%;
+}
+video
+{
+    position: fixed;
+    top:50%;
+    margin-top: -50%;
+    z-index: 1;
+}
+div
+{
+    position: relative;
+    z-index: 2;
+    margin-top:180px;
+    margin-left:420px;
+    max-width: 520px;
+}
+h1
+{
+    margin-left:100px;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 45px;
+    margin-top: 25px;
+    opacity: 0.8;
+    
+}
+p
+{
+    font-size: 32px;
+    margin-top: -15px;
+    font-family: 'Permanent Marker', cursive;
+font-family: 'Cookie', cursive;
+    color:white;
+    padding: 2px;
+    background-color: grey;
+    opacity: 0.8;
+}
+a
+{
+    margin-left: 180px;
+    
+    border: 3px solid red;
+    padding: 6px 15px;
+    text-decoration: none;
+    
+}

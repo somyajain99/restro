@@ -1,0 +1,103 @@
+.header
+{
+    width: 100%;
+    height: 160px;
+    background-color: orangered;
+    margin: 0;
+    padding: 0;
+}
+.why
+{
+    text-align: center;
+    margin: 10px;
+    margin: 10px;
+    padding: 50px;
+}
+.me
+{
+    list-style-type: none;
+    float: left;
+    padding: 15px;
+    padding-top: 10px;
+    padding-left: 30px;
+
+}
+.man
+{
+    padding: 0;
+    margin: 0;
+       
+}
+.child
+{
+    background-color: black;
+    height: 45px;
+
+}
+a
+{
+    text-decoration: none;
+    background-color: black;
+    color:aqua;
+    
+}
+a:hover
+{
+    background-color: brown;
+}
+.red
+{
+    float: right;
+}
+.dy
+{
+    height: 400px;
+    background-color: burlywood;
+    margin-top: -10px;
+}
+.left
+{
+    width: 20%;
+    height: 350px;
+    background-color: greenyellow;
+    border: 10px solid burlywood;
+    border-radius: 4px;
+}
+p{
+    text-align: center;
+    text-decoration: underline;
+}
+li
+{
+    padding: 10px;
+}
+.right
+{
+    background-color: greenyellow;
+    width: 20%;
+    margin-left: 1070px;
+    margin-top: -360px;
+    height:350px;
+    border-radius: 4px;
+}
+.main
+{
+    background-color: chocolate;
+    width:55%;
+    margin-left: 300px;
+    margin-top: -378px;
+    height: 350px;
+    border-radius: 4px;
+                                                                    
+}
+.game
+{
+    color:chartreuse;
+    font-size: 2em;
+}
+.don
+{
+    text-decoration: none;
+    text-align: inherit;
+    font-family: 'Baloo Tammudu', cursive;
+}
